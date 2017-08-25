@@ -8,3 +8,5 @@ classes/
 *.ipr
 *.iws
 **/target/
+
+.project
